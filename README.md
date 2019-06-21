@@ -1,4 +1,4 @@
-# wpcp-page-specific-scripts
+# Page Specific Scripts - WordPress Plugin
 === Page Specific Scripts ===
 Contributors: afnangulabbasi
 Donate link: N/A
